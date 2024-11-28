@@ -1,7 +1,5 @@
 # Recommender
 
-Recommender developed using ML.NET Microsoft library, use machine learning algorithms to know if a comment is good or bad
-
 ## Project Description
 
 This project is a sentiment analysis recommender system developed using the ML.NET Microsoft library. The purpose of this project is to classify comments as either good or bad based on their content. The system uses machine learning algorithms to analyze the text and predict the sentiment of the comments.
